@@ -47,7 +47,7 @@
       <br>Kubernetes
     </td>
     <td align="center" width="96">
-      <a href="#vikas027">
+      <a href="https://github.com/vikas027?tab=repositories&q=&type=&language=dockerfile&sort=">
         <img src="./media/docker.png" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
@@ -80,13 +80,13 @@
 
   <tr>
     <td align="center" width="96">
-      <a href="#vikas027">
+      <a href="https://github.com/vikas027?tab=repositories&q=&type=&language=python&sort=git">
         <img src="./media/python.png" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#vikas027">
+      <a href="https://github.com/vikas027?tab=repositories&q=&type=&language=go&sort=">
         <img src="./media/golang.png" width="48" height="48" alt="Go" />
       </a>
       <br>Go
