@@ -30,13 +30,14 @@
 <br/>
 <br/>
 
-<a href="https://github.com/vikas027/github-readme-activity-graph"><img alt="vikas027's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vikas027&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/vikas027/github-readme-activity-graph"><img alt="vikas027's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=vikas027&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=vikas027)
 
 ---
 
 ## 🚀 My Skills
+
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -68,6 +69,12 @@
         <img src="./media/aws.png" width="48" height="48" alt="AWS" />
       </a>
       <br>AWS
+    </td>
+    <td align="center" width="96">
+      <a href="#vikas027">
+        <img src="./media/azure.png" width="48" height="48" alt="Azure" />
+      </a>
+      <br>Azure
     </td>
   </tr>
 
@@ -102,18 +109,26 @@
       </a>
       <br>GitHub_Actions
     </td>
+    <td align="center" width="96">
+      <a href="#vikas027" >
+        <img src="./media/azure-devops.png" width="48" height="48" alt="Azure_DevOps" />
+      </a>
+      <br>Azure_DevOps
+    </td>
   </tr>
 </table>
 
 ---
 
 ## ⚡ Certifications
+
 - Certified Kubernetes Application Developer (CKAD)
 - Certified Kubernetes Administrator (CKA)
-- PCEP – Certified Entry-Level Python Programmer
+- Microsoft Azure Administrator Associate
+- Microsoft Azure Fundamentals
 - HashiCorp Certified Terraform Associate
 - AWS Certified Solutions Architect – Associate
 - AWS Certified Solutions Architect – Professional
 - AWS Certified SysOps Administrator – Associate
+- PCEP – Certified Entry-Level Python Programmer
 - Docker Certified Associate
-- Microsoft Azure Fundamentals
