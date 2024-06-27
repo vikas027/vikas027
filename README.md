@@ -122,8 +122,10 @@
 
 ## ⚡ Certifications
 
+- GitOps Fundamentals Certified for Argo
 - Certified Kubernetes Application Developer (CKAD)
 - Certified Kubernetes Administrator (CKA)
+- Microsoft Azure DevOps Engineer Expert
 - Microsoft Azure Administrator Associate
 - Microsoft Azure Fundamentals
 - HashiCorp Certified Terraform Associate
