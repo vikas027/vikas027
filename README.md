@@ -42,6 +42,12 @@
   <tr>
     <td align="center" width="96">
       <a href="#vikas027">
+        <img src="./media/linux.png" width="48" height="48" alt="Linux" />
+      </a>
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <a href="#vikas027">
         <img src="./media/kubernetes.png" width="48" height="48" alt="Kubernetes" />
       </a>
       <br>Kubernetes
@@ -54,9 +60,9 @@
     </td>
     <td align="center" width="96">
       <a href="#vikas027">
-        <img src="./media/terraform.png" width="48" height="48" alt="AWS" />
+        <img src="./media/terraform.png" width="48" height="48" alt="Terraform" />
       </a>
-      <br>AWS
+      <br>Terraform
     </td>
     <td align="center" width="96">
       <a href="#vikas027">
@@ -96,6 +102,12 @@
         <img src="./media/argocd.png" width="48" height="48" alt="Argo_CD" />
       </a>
       <br>Argo_CD
+    </td>
+    <td align="center" width="96">
+      <a href="#vikas027" >
+        <img src="./media/fluxcd.png" width="48" height="48" alt="Flux_CD" />
+      </a>
+      <br>Flux_CD
     </td>
     <td align="center" width="96">
       <a href="#vikas027" >
