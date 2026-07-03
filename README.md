@@ -24,7 +24,7 @@
     </a>
 </p>
     <a href="https://github.com/vikas027"><img alt="vikas027's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vikas027&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/vikas027"><img alt="Aakash's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas027&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="300px"/></a>
+  <a href="https://github.com/vikas027"><img alt="Vikas's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas027&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="300px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
@@ -42,6 +42,12 @@
   <tr>
     <td align="center" width="96">
       <a href="#vikas027">
+        <img src="./media/linux.png" width="48" height="48" alt="Linux" />
+      </a>
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <a href="#vikas027">
         <img src="./media/kubernetes.png" width="48" height="48" alt="Kubernetes" />
       </a>
       <br>Kubernetes
@@ -54,9 +60,9 @@
     </td>
     <td align="center" width="96">
       <a href="#vikas027">
-        <img src="./media/terraform.png" width="48" height="48" alt="AWS" />
+        <img src="./media/terraform.png" width="48" height="48" alt="Terraform" />
       </a>
-      <br>AWS
+      <br>Terraform
     </td>
     <td align="center" width="96">
       <a href="#vikas027">
@@ -96,6 +102,12 @@
         <img src="./media/argocd.png" width="48" height="48" alt="Argo_CD" />
       </a>
       <br>Argo_CD
+    </td>
+    <td align="center" width="96">
+      <a href="#vikas027" >
+        <img src="./media/fluxcd.png" width="48" height="48" alt="Flux_CD" />
+      </a>
+      <br>Flux_CD
     </td>
     <td align="center" width="96">
       <a href="#vikas027" >
